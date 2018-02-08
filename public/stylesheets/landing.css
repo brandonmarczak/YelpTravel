@@ -40,22 +40,22 @@ body {
 }
 
 .slideshow li:nth-child(1) { 
-  background-image: url(http://i.imgur.com/K3mPv14.jpg) 
+  background-image: url(https://www.saga.co.uk/contentlibrary/saga/publishing/verticals/travel/places-to-stay/villa-greek-islands.jpg);
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(http://i.imgur.com/SBEmFpv.jpg);
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg);
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(http://i.imgur.com/emvhOnb.jpg);
+  background-image: url(https://static2.bergfex.com/images/downsized/40/4b893b4ccd197040_e95a6d8b6db39870.jpg);
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(http://i.imgur.com/2LSMCmJ.jpg);
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/E5A-UKCHl/traditional-wooden-boats-on-shore-of-tropical-beach-near-phuket-and-unidentified-tourists-swimming-in-clean-sea-water-one-of-most-popular-travel-destinations-in-asia_e2uq53ylg__F0000.png);
   animation-delay: 30s; 
 }
 .slideshow li:nth-child(5) { 
-  background-image: url(http://i.imgur.com/TVGe0Ef.jpg);
+  background-image: url(hhttps://i0.wp.com/greeksunyachts.com/wp-content/uploads/2016/03/Sailing-Greece-Ios-island-Greek-Sun-Yachts.jpg);
   animation-delay: 40s; 
 }
 
