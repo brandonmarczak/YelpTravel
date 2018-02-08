@@ -1,0 +1,45 @@
+body {
+    background: #fff;
+    
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+	background-color: #f3f3f3;;
+
+
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.thumbnail .caption {
+    padding: 10px;
+    color: #5bc0de;
+}
+
+#delete-form {
+    display: inline;
+}
+
+/*.jumbotron {*/
+/*    padding-top: 30px;*/
+/*    padding-bottom: 30px;*/
+/*    margin-bottom: 30px;*/
+/*    color: inherit;*/
+/*    background-color: #ff5e5e;*/
+/*}*/
+
+.jumbotron
+{
+	background: url('https://ih1.redbubble.net/image.285547312.6694/flat,800x800,075,f.u2.jpg') no-repeat center center;
+	background-position: 0% 25%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+}
