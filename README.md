@@ -1,7 +1,6 @@
 # YelpTravel
 
-YelpTravel is a Full Stack NodeJs Web App Project that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
-This app was slightly modified, containing different visual features. 
+YelpTravel is a Full Stack NodeJs Web App Project that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/). This app was slightly modified, containing different visual features. 
 
 Built with: NodeJS, ExpressJS, Heroku, MongoDB at mLab
 
